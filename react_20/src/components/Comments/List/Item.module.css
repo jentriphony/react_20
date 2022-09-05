@@ -1,0 +1,11 @@
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+  padding: 1rem;
+}
+.item span {
+  margin: 1rem;
+  padding: 1rem;
+}

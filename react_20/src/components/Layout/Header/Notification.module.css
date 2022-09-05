@@ -1,0 +1,20 @@
+.notification {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 64%;
+  top: 8rem;
+  padding: 1rem;
+  box-shadow: 0 0 2px 2px white;
+  background-color: black;
+  z-index: 1;
+}
+.notification button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 1rem;
+  cursor: pointer;
+}

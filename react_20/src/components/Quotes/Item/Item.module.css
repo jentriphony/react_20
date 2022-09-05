@@ -1,0 +1,17 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+  padding: 1rem;
+  box-shadow: 0 0 2px 2px white;
+}
+.item span {
+  margin: 1rem;
+  padding: 1rem;
+}
+.button {
+  padding: 1rem;
+  cursor: pointer;
+}
