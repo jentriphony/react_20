@@ -31,6 +31,8 @@ const Hook = props => {
     actionProps,
     actionSliceTail
   })), [
+    dispatch,
+    sliceFetchAction,
     onStart,
     onSuccess,
     onError,
